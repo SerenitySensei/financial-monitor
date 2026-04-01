@@ -1,0 +1,12 @@
+name: financial_monitor
+
+description: A Flutter project for tracking financial data.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  provider: ^5.0.0
+
+flutter:
+  uses-material-design: true
